@@ -1,0 +1,2 @@
+# CodeAlpha-task-2
+SIMPLE CALCULATOR
